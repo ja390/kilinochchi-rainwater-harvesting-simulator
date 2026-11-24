@@ -1,6 +1,6 @@
 # Kilinochchi Rainwater Harvesting Simulator
 
-**SE4042 project:** a simulation exploring how roof area, household water demand, collection efficiency, rainfall uncertainty and tank capacity affect rainwater availability in Kilinochchi, Sri Lanka.
+A simulation exploring how roof area, household water demand, collection efficiency, rainfall uncertainty and tank capacity affect rainwater availability in Kilinochchi, Sri Lanka.
 
 ## Project question
 
