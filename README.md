@@ -53,7 +53,7 @@ Repository: [ja390/kilinochchi-rainwater-harvesting-simulator](https://github.co
 
 To publish the demo, open **Settings → Pages** in the repository and deploy the `main` branch from the repository root. Because the demo is in a subfolder named `web demo`, the expected page address is:
 
-<https://ja390.github.io/kilinochchi-rainwater-harvesting-simulator/web%20demo/>
+<https://ja390.github.io/kilinochchi-rainwater-harvesting-simulator/kilinochchi-rainwater-simulator/web%20demo/index.html>
 
 This is the expected URL after GitHub Pages has been enabled and deployment has completed. Open that address and test the demo and reference check before presenting it as a live demo.
 
