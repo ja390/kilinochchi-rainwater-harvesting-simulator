@@ -7,7 +7,7 @@ A stochastic simulation explores how tank capacity, roof area, household demand 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ja390/kilinochchi-rainwater-harvesting-simulator/blob/main/notebook/rainwater_simulator.ipynb)
 
-![Simulator interface]:<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/f451ca9b-0f9f-434c-97f7-5c966e5ce7cd" /># Kilinochchi Rainwater Harvesting Simulator
+![Simulator interface]:<img width="400" height="250" alt="image" src="https://github.com/user-attachments/assets/f451ca9b-0f9f-434c-97f7-5c966e5ce7cd" />
 
 
 ## Problem and question
