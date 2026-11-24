@@ -75,7 +75,3 @@ Reliability is a day-based measure: the percentage of days when the entire daily
 ## Data and references
 
 Rainfall source: [NASA POWER Daily API](https://power.larc.nasa.gov/docs/services/api/temporal/daily/). The notebook records the query location, parameter and date range. Check the references listed in the notebook and verify their details before final submission.
-
-## AI-use documentation
-
-AI tools assisted development of this assignment. The student is responsible for reviewing and understanding the code, equations, results and report. The detailed AI-use log, transcripts, code provenance and reflection are maintained separately in the private course submission folder. Do not add those private records, credentials or personal identifiers to this public repository.
