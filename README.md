@@ -69,4 +69,4 @@ AI tools assisted with code drafting, debugging and document preparation. The pr
 
 ## Licence and data credits
 
-Code and project documentation are released under the MIT License; see [LICENSE](LICENSE). Rainfall data are sourced from the [NASA POWER Daily API](https://power.larc.nasa.gov/docs/services/api/temporal/daily/). See [data/README.md](data/README.md) for the generated-data inventory and source notes.
+Code and project documentation are released under the MIT License; see [LICENSE](LICENSE). Rainfall data are sourced from the [NASA POWER Daily API](https://power.larc.nasa.gov/docs/services/api/temporal/daily/). See [kilinochchi-rainwater-simulator/data/README.md](kilinochchi-rainwater-simulator/data/README.md) for the generated-data inventory and source notes.
