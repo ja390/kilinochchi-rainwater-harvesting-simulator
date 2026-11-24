@@ -2,9 +2,9 @@
 
 ## Open the simulator
 
-Open the [live simulator](https://ja390.github.io/kilinochchi-rainwater-harvesting-simulator/) in a current browser. For local use, open `docs/index.html`. The demo uses standard browser APIs and needs no server or third-party library.
+Open the [live simulator](https://ja390.github.io/kilinochchi-rainwater-harvesting-simulator/kilinochchi-rainwater-simulator/web%20demo/index.html) in a current browser. For local use, open `web demo/index.html`. The demo uses standard browser APIs and needs no server or third-party library.
 
-![Simulator controls and results](docs/demo-screenshot.png)
+
 
 ## Inputs
 
