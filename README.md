@@ -7,7 +7,8 @@ A stochastic simulation explores how tank capacity, roof area, household demand 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ja390/kilinochchi-rainwater-harvesting-simulator/blob/main/notebook/rainwater_simulator.ipynb)
 
-![Simulator interface]:<img width="400" height="250" alt="image" src="https://github.com/user-attachments/assets/f451ca9b-0f9f-434c-97f7-5c966e5ce7cd" />
+Simulator interface:
+<img width="400" height="250" alt="image" src="https://github.com/user-attachments/assets/f451ca9b-0f9f-434c-97f7-5c966e5ce7cd" />
 
 
 ## Problem and question
@@ -47,7 +48,6 @@ The notebook uses daily precipitation (`PRECTOTCORR`) from NASA POWER for 9.38°
 
 The daily balance is checked against an independent implementation and physical bounds. The browser's deterministic reference check reproduces the notebook benchmark within `1e-9` for storage, fully supplied days, shortage, overflow and supplied volume. This verifies the fixed water-balance calculation; it does not imply that browser and NumPy random streams or annual reliability estimates match.
 
-![Monte Carlo error scaling verification](figures/fig_mc_error_scaling.png)
 
 ## Concepts applied
 
